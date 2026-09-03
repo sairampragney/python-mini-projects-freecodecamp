@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/%3E%3E%3E_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" width="180">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=3776AB&center=true&vCenter=true&width=700&lines=>>>+python+mini_projects.py;>>>+Learning+Python+through+projects;>>>+Building+%7C+Debugging+%7C+Improving+%F0%9F%90%8D" alt="Python Terminal Animation">
 
-# 🐍 Python Mini Projects
+<br><br>
 
-### `Learning Python through practical projects`
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="700" alt="Animated Contribution Snake">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&width=650&lines=%3E%3E%3E+learning_python();;%3E%3E%3E+building_projects();;%3E%3E%3E+improving_every_day();;%3E%3E%3E+%22One+project+at+a+time%22+%F0%9F%90%8D" alt="Python Code Animation">
+<br><br>
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B">
-<img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white">
-<img src="https://img.shields.io/badge/Projects-12+-3776AB?style=flat-square">
-<img src="https://img.shields.io/badge/Status-Learning-FFD43B?style=flat-square">
+<img src="https://img.shields.io/badge/%3E%3E%3E-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
 
 </div>
 
