@@ -6,13 +6,13 @@
 
 ### FreeCodeCamp Python Learning Journey
 
-A collection of beginner-friendly Python projects and coding exercises completed while learning Python through **FreeCodeCamp**.
+A collection of Python projects and coding exercises completed while learning Python through **FreeCodeCamp**.
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![FreeCodeCamp](https://img.shields.io/badge/Learning-FreeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-3776AB?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Learning-3776AB?style=flat-square)
 
 </div>
 
@@ -20,19 +20,19 @@ A collection of beginner-friendly Python projects and coding exercises completed
 
 ## 📌 About This Repository
 
-This repository contains my **hands-on Python learning projects** completed while progressing through the FreeCodeCamp Python curriculum.
+This repository is a **record of my Python learning journey** through the FreeCodeCamp curriculum.
 
-Rather than keeping exercises as scattered files, each project is organized in its **own folder**, containing the Python source code and a README with information about the project.
+It contains small projects and coding exercises that I build while learning and practicing Python. Each project is organized in its **own folder** with the source code and a README explaining what was practiced.
 
-The main purpose of this repository is to **learn Python by building**, practice programming fundamentals, and gradually improve my problem-solving and coding skills.
+This repository is **not meant to showcase expert-level or production-ready Python development**. It is simply proof of my learning, practice, and progress over time.
 
-This is a **learning repository, not a collection of production-ready applications**. The projects reflect my progress as I learn, and the complexity of the code will grow over time.
+The projects may start simple, but they will become more complex as my understanding of Python improves.
 
 ---
 
 ## 🧠 What I'm Learning
 
-Through these projects, I am developing a stronger foundation in Python and practicing concepts such as:
+I'm currently building my Python fundamentals through hands-on practice, including:
 
 - Variables and data types
 - Strings and string manipulation
@@ -44,15 +44,15 @@ Through these projects, I am developing a stronger foundation in Python and prac
 - Exception handling
 - Regular expressions
 - Debugging
-- Logical thinking and problem solving
+- Problem solving and logical thinking
 
-As I continue learning, more advanced Python concepts and projects will be added.
+I'm still learning these concepts and improving my understanding through practice.
 
 ---
 
 ## 📂 Repository Structure
 
-Each project follows a simple and consistent structure:
+Each project follows a simple structure:
 
 ```text
 python-mini-projects-freecodecamp/
