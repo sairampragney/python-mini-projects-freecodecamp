@@ -18,6 +18,10 @@ A collection of Python projects and coding exercises completed while learning Py
 
 ---
 
+> 🤖 **AI-Assisted Learning:** AI tools were used for guidance, explanations, debugging, and learning throughout these projects. I am still learning Python and use AI as a learning aid while working through the FreeCodeCamp curriculum.
+
+---
+
 ## 📌 About This Repository
 
 This repository is a **record of my Python learning journey** through the FreeCodeCamp curriculum.
@@ -29,40 +33,3 @@ This repository is **not meant to showcase expert-level or production-ready Pyth
 The projects may start simple, but they will become more complex as my understanding of Python improves.
 
 ---
-
-## 🧠 What I'm Learning
-
-I'm currently building my Python fundamentals through hands-on practice, including:
-
-- Variables and data types
-- Strings and string manipulation
-- Conditional statements
-- Loops
-- Functions
-- Lists and dictionaries
-- Input validation
-- Exception handling
-- Regular expressions
-- Debugging
-- Problem solving and logical thinking
-
-I'm still learning these concepts and improving my understanding through practice.
-
----
-
-## 📂 Repository Structure
-
-Each project follows a simple structure:
-
-```text
-python-mini-projects-freecodecamp/
-│
-├── Project-Name/
-│   ├── README.md
-│   └── project_name.py
-│
-├── Another-Project/
-│   ├── README.md
-│   └── another_project.py
-│
-└── README.md
