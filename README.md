@@ -1,14 +1,18 @@
+# 🐍 Python Mini Projects
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=3776AB&center=true&vCenter=true&width=700&lines=>>>+python+mini_projects.py;>>>+Learning+Python+through+projects;>>>+Building+%7C+Debugging+%7C+Improving+%F0%9F%90%8D" alt="Python Terminal Animation">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="420" alt="Python Logo">
 
-<br><br>
+### FreeCodeCamp Python Learning Journey
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="700" alt="Animated Contribution Snake">
+A collection of beginner-friendly Python projects and coding exercises completed while learning Python through **FreeCodeCamp**.
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/%3E%3E%3E-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![FreeCodeCamp](https://img.shields.io/badge/Learning-FreeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-3776AB?style=flat-square)
 
 </div>
 
