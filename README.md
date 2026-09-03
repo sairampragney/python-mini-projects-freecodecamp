@@ -20,17 +20,39 @@ A collection of beginner-friendly Python projects and coding exercises completed
 
 ## 📌 About This Repository
 
-This repository contains my **hands-on Python learning projects** from the FreeCodeCamp Python curriculum.
+This repository contains my **hands-on Python learning projects** completed while progressing through the FreeCodeCamp Python curriculum.
 
-Instead of keeping the exercises as scattered files, each project is organized in its own folder with its corresponding Python source code and documentation.
+Rather than keeping exercises as scattered files, each project is organized in its **own folder**, containing the Python source code and a README with information about the project.
 
-The purpose of this repository is to **practice Python concepts by building small, practical programs** and to track my progress as I develop stronger programming fundamentals.
+The main purpose of this repository is to **learn Python by building**, practice programming fundamentals, and gradually improve my problem-solving and coding skills.
+
+This is a **learning repository, not a collection of production-ready applications**. The projects reflect my progress as I learn, and the complexity of the code will grow over time.
+
+---
+
+## 🧠 What I'm Learning
+
+Through these projects, I am developing a stronger foundation in Python and practicing concepts such as:
+
+- Variables and data types
+- Strings and string manipulation
+- Conditional statements
+- Loops
+- Functions
+- Lists and dictionaries
+- Input validation
+- Exception handling
+- Regular expressions
+- Debugging
+- Logical thinking and problem solving
+
+As I continue learning, more advanced Python concepts and projects will be added.
 
 ---
 
 ## 📂 Repository Structure
 
-Each project follows a simple structure:
+Each project follows a simple and consistent structure:
 
 ```text
 python-mini-projects-freecodecamp/
